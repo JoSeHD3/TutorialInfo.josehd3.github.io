@@ -1,1 +1,1 @@
-# TutorialInfo.josehd3.github.io
+# TutorialInfo minecraft plugin for books.
