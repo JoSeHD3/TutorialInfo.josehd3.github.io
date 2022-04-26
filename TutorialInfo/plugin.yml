@@ -1,0 +1,16 @@
+name: TutorialInfo
+main: io.github.josehd3.tutorialinfo.TutorialInfo
+version: 1.0
+api-version: 1.16
+author: JoSeHD
+commands:
+  tutorial:
+    description: Show tutorial
+    usage: /tutorial
+    permission: tutorialinfo.tutorial
+    permission-message: You don't have the tutorialinfo.tutorial permission.
+  tutorialinfo:
+    description: Show TutorialInfo plugin description
+    usage: /tutorialinfo
+    permission: tutorialinfo.tutorial
+    permission-message: You don't have the tutorialinfo.tutorial permission.
